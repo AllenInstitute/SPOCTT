@@ -1,4 +1,4 @@
-###### Day 1
+###### **Day 1**
 
 8:30-9:00	Check-in/breakfast
 
@@ -26,7 +26,7 @@
 
 
 
-###### Day 2	
+###### **Day 2**
 
 8:30-9:00	Check-in/breakfast
 
@@ -40,7 +40,7 @@
 
 12:15-1:00	brain-map exploration time
 
-1:00-2:00	Lunch 
+1:00-2:00	Lunch
 
 2:00-3:00	SEA-AD
 
@@ -52,7 +52,7 @@
 
 
 
-###### Day 3	
+###### **Day 3**
 
 8:30-9:00	Check-in/breakfast
 
@@ -66,7 +66,7 @@
 
 12:15-1:00	MapMyCells
 
-1:00-2:00	Lunch 
+1:00-2:00	Lunch
 
 2:00-3:00	Genetic Tools Atlas
 
@@ -75,6 +75,4 @@
 3:30-4:30	Bringing to Your Own Work
 
 4:30-5:00	Feedback/Closing
-
-
 
