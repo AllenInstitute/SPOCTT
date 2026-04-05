@@ -1,4 +1,4 @@
-# **Day 1**
+# **April 6th**
 
 8:30-9:00	Check-in/Breakfast
 
@@ -26,7 +26,7 @@
 
 
 
-# **Day 2**
+# **April 7th**
 
 8:30-9:00	Check-in/Breakfast
 
@@ -50,7 +50,7 @@
 
 
 
-# **Day 3**
+# **April 8th**
 
 8:30-9:00	Check-in/Breakfast
 
