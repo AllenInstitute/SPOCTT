@@ -45,3 +45,5 @@ Aging mouse (Jin et al., 2025) https://www.nature.com/articles/s41586-024-08350-
 Basal ganglia - marmoset, macaque, human (Jorstad et al., 2025) https://www.biorxiv.org/content/10.64898/2025.12.15.694496v1 
 
 Spinal cord - human, macaque, mouse (Schmitz et al., 2026) https://www.biorxiv.org/content/10.64898/2026.02.04.703852v1
+
+basal ganglia paper package https://brain-map.org/consortia/hmba 
