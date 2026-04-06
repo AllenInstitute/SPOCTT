@@ -1,4 +1,4 @@
-Intro:
+Intro Cell Types Lecture:
 
 Yuste et al 2020 https://www.nature.com/articles/s41593-020-0685-8
 
