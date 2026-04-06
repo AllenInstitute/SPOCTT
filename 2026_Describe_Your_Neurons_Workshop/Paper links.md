@@ -26,13 +26,23 @@ Primary visual cortex and anterior lateral cortex – mouse (Tasic et al., 2018)
 
 Mouse and human cortical consensus (Hodge et al., 2019) https://pubmed.ncbi.nlm.nih.gov/31435019/ 
 
+Motor cortex paper package (2021) https://www.nature.com/collections/cicghheddj
+
 Primary motor cortex – mouse (Yao et al., 2021) https://www.nature.com/articles/s41586-021-03950-0 
 
 Primary motor cortex – mouse/marmoset/human (Bakken et al., 2021) https://www.nature.com/articles/s41586-021-03465-8 
 
-Whole cortex and hippocampal formation – mouse (Yao et al., 2021) https://pubmed.ncbi.nlm.nih.gov/34004146/ 
+Whole cortex and hippocampal formation – mouse (Yao et al., 2021) https://pubmed.ncbi.nlm.nih.gov/34004146/
 
-Whole brain – mouse (Yao et al., 2023) https://www.nature.com/articles/s41586-023-06812-z 
+Whole mouse brain paper package (2023) https://www.nature.com/collections/fgihbeccbd
+
+Single cell and spatial whole mouse brain (Allen) (Yao et al., 2023) https://www.nature.com/articles/s41586-023-06812-z 
+
+Spatial whole mouse brain (Harvard) (Zhang et al., 2023) https://www.nature.com/articles/s41586-023-06808-9
+
+Single cell whole mouse brain (Broad) (Langlieb et al., 2023) https://www.nature.com/articles/s41586-023-06818-7
+
+Whole human brain paper package (2023) https://www.science.org/collections/brain-cell-census
 
 Whole brain – human (Siletti et al., 2023) https://www.science.org/doi/10.1126/science.add7046 
 
@@ -42,8 +52,10 @@ Human cortex cross areal (Jorstad et al., 2023b) https://www.science.org/doi/10.
 
 Aging mouse (Jin et al., 2025) https://www.nature.com/articles/s41586-024-08350-8
 
-Basal ganglia - marmoset, macaque, human (Jorstad et al., 2025) https://www.biorxiv.org/content/10.64898/2025.12.15.694496v1 
+Developmental paper package (2025) https://www.nature.com/collections/gjdefhadcj
 
-Spinal cord - human, macaque, mouse (Schmitz et al., 2026) https://www.biorxiv.org/content/10.64898/2026.02.04.703852v1
+Basal ganglia - marmoset, macaque, human (preprint) (Jorstad et al., 2025) https://www.biorxiv.org/content/10.64898/2025.12.15.694496v1 
 
-basal ganglia paper package https://brain-map.org/consortia/hmba 
+Spinal cord - human, macaque, mouse (preprint) (Schmitz et al., 2026) https://www.biorxiv.org/content/10.64898/2026.02.04.703852v1
+
+basal ganglia paper package (preprints) (2026) https://brain-map.org/consortia/hmba 
