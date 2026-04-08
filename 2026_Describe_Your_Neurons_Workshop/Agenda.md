@@ -56,7 +56,7 @@
 
 9:00-10:00	Single-cell RNA-seq Analysis for Transcriptomic Type Characterization (scrattch; [LINK](https://alleninstitute.github.io/scrattch/)) — Jeremy Miller
 
-10:00-11:00	ABC Atlas (put your feedback here [LINK](https://docs.google.com/document/d/1lMMmsd4dHVbniF-1UCA56U9fTYtUYQnF4CoL7Jwvi5U/edit?usp=sharing)
+10:00-11:00	[ABC Atlas](https://brain-map.org/bkp/explore/abc-atlas) (put your feedback [here](https://docs.google.com/document/d/1lMMmsd4dHVbniF-1UCA56U9fTYtUYQnF4CoL7Jwvi5U/edit?usp=sharing))
  — Rachel Hostetler
 
 11:00-11:15	Break
