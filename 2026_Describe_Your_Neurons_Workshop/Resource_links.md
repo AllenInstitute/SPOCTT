@@ -1,4 +1,4 @@
-**Taxonomy citations and webinars:** 
+## **Taxonomy citations and webinars:** 
 
 - Primary visual cortex – mouse (Tasic et al., 2016) https://www.nature.com/articles/nn.4216 
 
@@ -64,9 +64,9 @@
 
     - Spinal cord webinar https://www.youtube.com/watch?v=MSpiRdXjsqs
 
+---
 
-
-**Spatial transcriptomics links:**
+## **Spatial transcriptomics links:**
 
 MerQuaCo https://elifesciences.org/reviewed-preprints/105149, https://github.com/AllenInstitute/merquaco
 
@@ -76,15 +76,15 @@ MERSCOPE protocols https://www.protocols.io/workspaces/allen-institute-for-brain
 
 Webinar https://www.youtube.com/watch?v=fuqpSZp7uk0&pp=ygUdc3BhdGlhbCB0cmFuc2NyaXB0b21pY3MgYWxsZW4%3D
 
+---
 
-
-**RNAseq pipeline links:**
+## **RNAseq pipeline links:**
 
 10x protocols https://www.protocols.io/workspaces/allen-institute-for-brain-science/publications?q=10x
 
+---
 
-
-**Patch-seq and patch-clamp electrohpysiology:**
+## **Patch-seq and patch-clamp electrohpysiology:**
 
 Virutal lab tour https://www.youtube.com/watch?v=-sSOYfnz-6o
 
@@ -104,15 +104,15 @@ GitHub repos:
 
   - https://github.com/AllenInstitute/skeleton_keys
 
+---
 
-
-**All Allen protocols:**
+## **All Allen protocols:**
 
 https://www.protocols.io/workspaces/allen-institute-for-brain-science/publications
 
+---
 
-
-**Intro cell types lecture citations:**
+## **Intro cell types lecture citations:**
 
 Yuste et al 2020 https://www.nature.com/articles/s41593-020-0685-8
 
