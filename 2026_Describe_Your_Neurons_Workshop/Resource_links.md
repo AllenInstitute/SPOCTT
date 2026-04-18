@@ -56,7 +56,9 @@
 
     - Basal ganglia webinar https://www.youtube.com/watch?v=nlZ0gp0eshc
 
-    - basal ganglia paper package (preprints) (2026) and tools https://brain-map.org/consortia/hmba 
+    - basal ganglia paper package (preprints) (2026) and tools https://brain-map.org/consortia/hmba
+ 
+    - GitHub Repo https://github.com/AllenInstitute/BG_Consensus_Taxonomy
 
 - Spinal cord - human, macaque, mouse (preprint) (Schmitz et al., 2026) https://www.biorxiv.org/content/10.64898/2026.02.04.703852v1
 
