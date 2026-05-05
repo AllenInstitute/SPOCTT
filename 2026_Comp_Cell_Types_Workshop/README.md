@@ -1,3 +1,5 @@
+# **Welcome!**
+
 This repository is for the Allen Institute Computational Cell Types Workshop from May 11-14th.
 
 For the workshop, participants will be working in teams of three; teams will be formed at the end of day 1 (view agenda at "Comp_Workshop_Agenda.md").
