@@ -8,7 +8,7 @@ To apply to this workshop, applicants had to submit project proposals. All of th
 
 To view the datasets used in this workshop, click on "Workshop_Datasets.csv."
 
-During May 12th and 13th, we will have Allenite office hours where many of the lead authors from the workshop datasets will be present to answer questions and help troubleshoot. View the agenda to see which scientists will be at office hours.
+During May 12th and 13th, we will have Allenite office hours where some of the dataset leads will be present to answer questions and help troubleshoot. View the agenda to see which scientists will be at office hours.
 
 All datasets will be accessible through Code Ocean, and attendees will get Code Ocean access on the morning of the 11th.
 
