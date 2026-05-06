@@ -1,4 +1,5 @@
 ## **May 11th**
+
 8:30-9:00	Check-in/Breakfast
 
 9:00-10:00	Welcome and Ice Breakers (Rachel Hostetler)
@@ -11,7 +12,7 @@
 
 12:00-1:00	Lunch
 
-1:00-3:00	Dataset Presentations (Jeremy Miller and Rachel Hostetler)
+1:00-3:00	Dataset and Tool Presentations (Jeremy Miller and Rachel Hostetler)
 
 3:00-3:15	Break
 
@@ -22,6 +23,7 @@
 5:30-7:30	Dinner (offsite)
 
 ## **May 12th**
+
 8:30-9:00	Check-in/Breakfast
 
 9:00-9:30	Group Updates
@@ -47,6 +49,7 @@
 5:30-7:30	Dinner (offsite)
 
 ## **May 13th**
+
 8:30-9:00	Check-in/Breakfast
 
 9:00-9:30	Group Updates
@@ -72,6 +75,7 @@
 5:30-7:30	Dinner (offsite)
 
 ## **May 14th**
+
 8:30-9:00	Check-in/Breakfast
 
 9:00-11:00	Project Presentations
@@ -81,3 +85,4 @@
 11:15-12:00	Project Discussion
 
 12:00-1:00	Lunch/Closing Remarks
+
