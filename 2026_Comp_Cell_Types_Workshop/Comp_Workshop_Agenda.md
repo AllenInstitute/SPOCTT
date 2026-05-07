@@ -40,9 +40,9 @@
 
 2:00-3:00	Allenite Office Hours (Michael Kunst, Nelson Johansen, Dan Yuan, Kelly Jin)
 
-3:00-3:15	Work Time
+3:00-3:15	Break
 
-3:15-4:30	Dinner
+3:15-4:30	Work Time
 
 4:30-5:00	Group Updates
 
@@ -66,13 +66,13 @@
 
 2:00-3:00	Allenite Office Hours (Yuanyuan Fu, Yuan Gao, Kyle Travaglini, Jacob Quon)
 
-3:00-3:15	Work Time
+3:00-3:15	Break
 
-3:15-4:30	Dinner
+3:15-4:30	Work Time
 
 4:30-5:00	Group Updates
 
-5:30-7:30	Dinner (onsite)
+5:00-7:00	Dinner (onsite)
 
 ## **May 14th**
 
