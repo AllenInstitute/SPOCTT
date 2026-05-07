@@ -72,7 +72,7 @@
 
 4:30-5:00	Group Updates
 
-5:30-7:30	Dinner (offsite)
+5:30-7:30	Dinner (onsite)
 
 ## **May 14th**
 
