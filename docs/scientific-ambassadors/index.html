@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SPOCTT Scientific Ambassadors</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: sans-serif; margin: 0; line-height: 1.6; color: #333; }
+
+    /* ── Top header bar ── */
+    .topbar {
+      position: fixed; top: 0; left: 0; right: 0; height: 60px;
+      background-color: #000000; color: #fff;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 0 24px; z-index: 999; font-size: 14px;
+    }
+    .topbar-brand a { display: flex; align-items: center; }
+    .topbar-brand img { height: 30px; }
+    .topbar-nav { display: flex; align-items: center; gap: 6px; }
+    .topbar-nav a {
+      color: #fff; text-decoration: none; padding: 6px 14px;
+      border-radius: 3px; font-size: 14px; transition: background-color 0.2s;
+    }
+    .topbar-nav a:hover { background-color: rgba(255,255,255,0.15); }
+
+    /* ── Fixed sidebar ── */
+    .sidebar {
+      position: fixed; top: 60px; left: 0; width: 280px;
+      height: calc(100vh - 60px); background-color: #B3C1CD;
+      padding: 24px 20px; overflow-y: auto;
+      border-right: 1px solid #9aacbb; z-index: 998;
+    }
+    .sidebar img { display: block; margin: 0 auto 16px auto; border-radius: 50%; }
+    .sidebar h2 { color: #003057; text-align: center; margin-top: 0; border: none; font-size: 1.1em; }
+    .sidebar ul { list-style: none; padding: 0; margin-top: 16px; }
+    .sidebar li { margin-bottom: 6px; }
+    .sidebar li a {
+      text-decoration: none; color: #003057; display: block;
+      padding: 5px 8px; border-radius: 3px; font-size: 0.95em;
+      transition: background-color 0.2s;
+    }
+    .sidebar li a:hover { background-color: rgba(0, 48, 87, 0.12); }
+
+    /* ── Main content ── */
+    .main-content { margin-left: 280px; padding: 80px 40px 60px 40px; }
+
+    h1, h2, h3 {
+      color: #003057; scroll-margin-top: 80px;
+      border-bottom: 1px solid #eaecef; padding-bottom: 0.3em;
+      margin-top: 28px; margin-bottom: 16px;
+    }
+    h1 { border-bottom-width: 2px; }
+    a { color: #0366d6; }
+    ul { margin-left: 20px; }
+    .box { background-color: #f5f7fa; padding: 18px 20px; border-radius: 6px; margin-top: 10px; }
+    .box p { margin: 8px 0; }
+  </style>
+</head>
+<body>
+
+<!-- ════════════ Top Header Bar ════════════ -->
+<div class="topbar">
+  <div class="topbar-brand">
+    <a href="https://alleninstitute.org" target="_blank">
+      <img src="allen_institute_logo.svg" alt="Allen Institute" height="30">
+    </a>
+  </div>
+  <div class="topbar-nav">
+    <a href="https://alleninstitute.org" target="_blank"><i class="fas fa-building"></i> Allen Institute</a>
+    <a href="https://brain-map.org" target="_blank"><i class="fas fa-globe"></i> Brain Map</a>
+  </div>
+</div>
+
+<!-- ════════════ Sidebar ════════════ -->
+<div class="sidebar">
+  <img src="spoctt_logo.png" width="140" alt="SPOCTT logo">
+  <h2>SPOCTT</h2>
+  <ul>
+    <li><a href="#about"><i class="fas fa-chevron-right" style="font-size:0.7em; margin-right:6px;"></i>About</a></li>
+    <li><a href="#offers"><i class="fas fa-chevron-right" style="font-size:0.7em; margin-right:6px;"></i>What Participation Offers</a></li>
+    <li><a href="#slides"><i class="fas fa-chevron-right" style="font-size:0.7em; margin-right:6px;"></i>Slide Library</a></li>
+    <li><a href="#asks"><i class="fas fa-chevron-right" style="font-size:0.7em; margin-right:6px;"></i>What We Ask</a></li>
+    <li><a href="#reporting"><i class="fas fa-chevron-right" style="font-size:0.7em; margin-right:6px;"></i>Reporting</a></li>
+    <li><a href="#contact"><i class="fas fa-chevron-right" style="font-size:0.7em; margin-right:6px;"></i>Contact</a></li>
+  </ul>
+</div>
+
+<!-- ════════════ Main Content ════════════ -->
+<div class="main-content">
+
+  <h1 id="about">SPOCTT Scientific Ambassador Program</h1>
+  <p>
+    The <strong>Scientific and Public Outreach of Cell Types and Taxonomies (SPOCTT)</strong> program at the
+    Allen Institute invites selected scientists to serve as <strong>Scientific Ambassadors</strong>, helping expand
+    scientific training and outreach around cell type taxonomies and related tools.
+  </p>
+
+  <h2>What Scientific Ambassadors Do</h2>
+  <ul>
+    <li>Present SPOCTT-related content in talks, workshops, or classrooms</li>
+    <li>Provide formal or informal training on relevant tools and resources</li>
+    <li>Engage in awareness-building conversations within the scientific community</li>
+    <li>Contribute to broader outreach efforts across neuroscience</li>
+  </ul>
+
+  <h2 id="offers">What Participation Offers</h2>
+  <ul>
+    <li>Access to a curated scientific slide library for immediate use in talks and teaching</li>
+    <li>Eligibility for up to one SPOCTT-supported (paid) trip per year for outreach or training</li>
+    <li>Opportunity to contribute to a coordinated scientific training and outreach effort across the Allen Institute</li>
+  </ul>
+
+  <h2 id="slides">Slide Library</h2>
+  <div class="box">
+    <p><strong>Use these in your talks!</strong></p>
+    <ul>
+      <li>Includes curated slide decks on many relevant, non-confidential topics (e.g., cell types, taxonomies, patch-seq, spatial transcriptomics)</li>
+      <li>Uses (or will soon use) new templates</li>
+      <li>Includes a slide on how to get additional support from SPOCTT</li>
+    </ul>
+    <p>
+      <strong>Access the slide library:</strong><br>
+      <a href="#">[Insert Slide Library Link]</a>
+    </p>
+    <p>
+      <strong>Submit slides to share with others:</strong><br>
+      <a href="#">[Insert Slide Submission Link]</a>
+    </p>
+  </div>
+
+  <h2 id="asks">What We Ask</h2>
+  <ul>
+    <li>Participate in at least <strong>two outreach efforts per year</strong></li>
+    <li>Submit a lightweight report summarizing each activity</li>
+    <li>Share slides or teaching materials when appropriate to support reuse</li>
+  </ul>
+
+  <h2 id="reporting">Reporting (Lightweight)</h2>
+  <ul>
+    <li>Type of activity (talk, training, conversation, teaching, etc.)</li>
+    <li>Scientific topic or tools covered</li>
+    <li>Audience and approximate size (optional)</li>
+    <li>Brief description of impact or outcomes</li>
+    <li>Any feedback useful to SPOCTT</li>
+  </ul>
+
+  <h2 id="contact">Contact</h2>
+  <p>
+    For questions or to discuss this program, please contact the SPOCTT team.
+  </p>
+  <p>
+    [Insert contact email or form]
+  </p>
+
+</div>
+
+</body>
+</html>
