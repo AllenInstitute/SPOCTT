@@ -15,6 +15,7 @@ Collaborating in Code Ocean [click here](https://allenswdb.github.io/practicalit
 * scrattch: https://alleninstitute.github.io/scrattch/
 * Cell HierARchy Gene Explorer (CHARGE): https://molgen-shiny.org/CHARGE/
 * Annotation Comparison Explorer (ACE): https://sea-ad.shinyapps.io/ACEapp/
+* Cytosplore Viewer (access and explore data for many of Allen Institute data sets across modalities): https://viewer.cytosplore.org/projects/
 
 #### Data:
 * Code Ocean landing page (the vast majority of data can be accessed from here): https://codeocean.allenneuraldynamics.org/capsule/3027664
