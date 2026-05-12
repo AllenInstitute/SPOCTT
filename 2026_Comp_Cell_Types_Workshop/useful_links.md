@@ -2,6 +2,8 @@
 
 This page contains useful links to data and tools for the workshop. If you can't find something, ask us and we'll add it to the list!
 
+Collaborating in Code Ocean [click here](https://allenswdb.github.io/practicalities/code-ocean-collab.html)
+
 (An extensive set of citations, webinars, and other links compiled for a previous workshop [is also available here](https://github.com/AllenInstitute/SPOCTT/blob/main/2026_Describe_Your_Neurons_Workshop/Resource_links.md)).
 
 #### Tools:
