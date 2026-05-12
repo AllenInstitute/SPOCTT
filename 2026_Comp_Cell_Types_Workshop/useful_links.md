@@ -6,10 +6,13 @@ This page contains useful links to data and tools for the workshop. If you can't
 
 #### Tools:
 * Allen Brain Map landing page: https://brain-map.org/
+* All SEA-AD resources: https://brain-map.org/consortia/sea-ad
 * Allen Brain Cell (ABC) Atlas: https://brain-map.org/bkp/explore/abc-atlas
 * MapMyCells (assign cell Allen Institute cell types to your data): https://brain-map.org/bkp/analyze/mapmycells
-* All SEA-AD resources: https://brain-map.org/consortia/sea-ad
-* Ivy Glioblastoma Atlas Project: https://glioblastoma.alleninstitute.org/
+* Ivy Glioblastoma Atlas Project: https://glioblastoma.alleninstitute.org/ ([relevant manuscript](https://www.science.org/doi/10.1126/science.aaf2666))
+* scrattch: https://alleninstitute.github.io/scrattch/
+* Cell HierARchy Gene Explorer (CHARGE): https://molgen-shiny.org/CHARGE/
+* Annotation Comparison Explorer (ACE): https://sea-ad.shinyapps.io/ACEapp/
 
 #### Data:
 * Code Ocean landing page (the vast majority of data can be accessed from here): https://codeocean.allenneuraldynamics.org/capsule/3027664
