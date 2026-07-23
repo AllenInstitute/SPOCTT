@@ -4,7 +4,7 @@ Tools, tutorials, and resources associated with the SPOCTT initiative (Scientifi
 
 
 
-The files in the 2026\_02\_11 directory are used in the ABC Atlas Programmatic Access Webinar.
+The files in the 2026\_02\_11 directory are used in the [ABC Atlas Programmatic Access Webinar](https://www.youtube.com/watch?v=_CH8relYlUk) and related [Q&A session](https://www.youtube.com/watch?v=VDZuPocFpnc).
 
 
 
