@@ -26,6 +26,7 @@ Email any questions or comments to jeremym@alleninstitute.org.
 
 * Knowledgebases and data repositories across the BRAIN initiative – Satra & Dorota
 * Computational access to Allen Institute data and knowledge – Elysha & Jeremy
+    [(link to demo)](https://github.com/AllenInstitute/abc_atlas_access/tree/u/morriscb/taxonomyWorkshop/abc_atlas_workshop)
   
 3:00-3:15 | Break
 
