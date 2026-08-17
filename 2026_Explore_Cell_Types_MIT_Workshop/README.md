@@ -1,6 +1,6 @@
 # **Welcome!**
 
-This repository is for the Exploring Cell Types with the Allen Institute workshop in MIT on August 17th. Here you will find presentation slides and relevant resources. 
+This repository is for the Exploring Cell Types with the Allen Institute workshop in MIT on August 17th. Here you will find **[presentation slides](https://github.com/AllenInstitute/SPOCTT/blob/main/2026_Explore_Cell_Types_MIT_Workshop/Exploring%20Cell%20Types%20Boston%20MIT.pdf)** and relevant resources. 
 
 Email any questions or comments to jeremym@alleninstitute.org.
 
