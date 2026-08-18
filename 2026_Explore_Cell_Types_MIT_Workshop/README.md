@@ -1,8 +1,12 @@
 # **Welcome!**
 
-This repository is for the Exploring Cell Types with the Allen Institute workshop in MIT on August 17th. Here you will find **[presentation slides](https://github.com/AllenInstitute/SPOCTT/blob/main/2026_Explore_Cell_Types_MIT_Workshop/Exploring%20Cell%20Types%20Boston%20MIT.pdf)** and relevant resources. 
+This repository is for the Exploring Cell Types with the Allen Institute workshop in MIT on August 17th. Here you will find **[presentation slides](https://github.com/AllenInstitute/SPOCTT/blob/main/2026_Explore_Cell_Types_MIT_Workshop/Exploring%20Cell%20Types%20Boston%20MIT.pdf)** and relevant resources. Presentation slides from Satra's breakout session **[can be found here](https://github.com/AllenInstitute/SPOCTT/blob/main/2026_Explore_Cell_Types_MIT_Workshop/BRAIN_resources_Satra_Ghosh.pdf)**
 
 Email any questions or comments to jeremym@alleninstitute.org.
+
+## Useful resources
+
+The GitHub repo from a previous workshop **[(HERE)](https://github.com/AllenInstitute/SPOCTT/tree/main/2026_Describe_Your_Neurons_Workshop)** includes many useful resources. That workshop was also recorded if you'd like to videos of content related to what we presented here.
 
 ## **Agenda**
 
